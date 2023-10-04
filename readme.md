@@ -1,0 +1,1 @@
+![Texto alternativo](Extrair.gif)
